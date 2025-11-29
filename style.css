@@ -250,6 +250,51 @@
         margin-top: 10%;
 }
 
+.footer{
+        width: 100%;
+        border: 2px solid white;
+        background-color: white;
+        height: 200px;
+        margin-top: 20px;
+}
+
+.footer>footer>.foot{
+                padding: 30px;
+                margin-top: 50px;
+                /* border: 1px solid black ; */
+                width: 20%;
+                text-align: end;
+
+}       
+
+.footer>footer>.foot>img{
+                        margin-top: 10px;
+}
+
+.footer>footer>.foottext{
+                        /* border: 1px solid black; */
+                        width: 100%;
+                        text-align: center;
+                        margin-top: -9%;
+                        display: flex;
+}
+
+.footer>footer>.foottext>.text7{
+                                margin-left: 20%;
+}
+
+.footer>footer>.foottext>.last{
+                                display: flex;
+                                /* border: 1px solid black; */
+                                width: 160px;
+                                padding: 10px;
+                                height: 15%;
+                                margin-left: 50px;
+                                margin-top: 50px;
+                                background-color: black;
+                                border-radius:5px ;
+}
+
 
 
 
